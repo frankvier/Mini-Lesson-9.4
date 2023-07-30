@@ -12,6 +12,7 @@
 
 ## About the Project<a class="anchor" id="about-the-project">
 [TOC](#toc)
+
 Project about modify README file, and add more information about the tools, process and the steps for to do that.
 
 
@@ -38,5 +39,5 @@ Include the installation instructions
 [Francisco Javier Gutierrez-GitHub](https://frankvier.github.io)
 
 
-<a class="anchor" id=""></a>
+## Extra information<a class="anchor" id="extra"></a>
 
